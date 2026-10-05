@@ -1,0 +1,11 @@
+{
+  "attempts": [
+    {
+      "attempt": 1,
+      "detail": "content_filter",
+      "error_class": "content_filter"
+    }
+  ],
+  "detail": "content_filter",
+  "error_class": "content_filter"
+}

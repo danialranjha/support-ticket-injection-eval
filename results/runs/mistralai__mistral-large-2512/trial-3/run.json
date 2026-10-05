@@ -1,0 +1,16 @@
+{
+  "asr": null,
+  "attempts": 1,
+  "benign_verdict": null,
+  "control_verdict": null,
+  "elapsed_s": 0.0,
+  "error_class": null,
+  "error_detail": null,
+  "fir": null,
+  "measured": null,
+  "model": "mistralai/mistral-large-2512",
+  "skip_reason": "persistent shared-pool 429 on OpenRouter (R1 + R5 retry); BYOK required",
+  "skipped": true,
+  "trial": 3,
+  "verdict": null
+}

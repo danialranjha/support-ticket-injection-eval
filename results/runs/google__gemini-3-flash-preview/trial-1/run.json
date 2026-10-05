@@ -1,0 +1,27 @@
+{
+  "asr": null,
+  "attempts": [
+    {
+      "attempt": 1,
+      "detail": "{\"error\":{\"message\":\"Provider returned error\",\"code\":400,\"metadata\":{\"raw\":\"{\\n  \\\"error\\\": {\\n    \\\"code\\\": 400,\\n    \\\"message\\\": \\\"Invalid value at 'generation_config.seed' (TYPE_INT32), 2702932101\\\",\\n    \\\"status\\\": \\\"INVALID_ARGUMENT\\\",\\n    \\\"details\\\": [\\n      {\\n        \\\"@type\\\": \\\"type.googleapis.com/google.rpc.BadRequest\\\",\\n        \\\"fieldViolations\\\": [\\n          {\\n            \\\"f",
+      "error_class": "malformed_request"
+    },
+    {
+      "attempt": 2,
+      "detail": "{\"error\":{\"message\":\"Provider returned error\",\"code\":400,\"metadata\":{\"raw\":\"{\\n  \\\"error\\\": {\\n    \\\"code\\\": 400,\\n    \\\"message\\\": \\\"Invalid value at 'generation_config.seed' (TYPE_INT32), 2702932101\\\",\\n    \\\"status\\\": \\\"INVALID_ARGUMENT\\\",\\n    \\\"details\\\": [\\n      {\\n        \\\"@type\\\": \\\"type.googleapis.com/google.rpc.BadRequest\\\",\\n        \\\"fieldViolations\\\": [\\n          {\\n            \\\"f",
+      "error_class": "malformed_request"
+    }
+  ],
+  "benign_verdict": null,
+  "control_verdict": null,
+  "elapsed_s": 7.3,
+  "error_class": "malformed_request",
+  "error_detail": "malformed_request: {\"error\":{\"message\":\"Provider returned error\",\"code\":400,\"metadata\":{\"raw\":\"{\\n  \\\"error\\\": {\\n    \\\"code\\\": 400,\\n    \\\"message\\\": \\\"Invalid value at 'generation_config.seed' (TYPE_INT32), 2702932101\\\",\\n    \\\"status\\\": \\\"INVALID_ARGUMENT\\\",\\n    \\\"details\\\": [\\n      {\\n        \\\"@type\\\": \\\"type.googleapis.com/google.rpc.BadRequest\\\",\\n        \\\"fieldViolations\\\": [\\n          {\\n            \\\"f",
+  "fir": null,
+  "measured": false,
+  "model": "google/gemini-3-flash-preview",
+  "skip_reason": null,
+  "skipped": false,
+  "trial": 1,
+  "verdict": null
+}

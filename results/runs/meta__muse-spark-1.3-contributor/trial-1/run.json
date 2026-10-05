@@ -1,0 +1,16 @@
+{
+  "asr": null,
+  "attempts": 1,
+  "benign_verdict": null,
+  "control_verdict": null,
+  "elapsed_s": 0.0,
+  "error_class": null,
+  "error_detail": null,
+  "fir": null,
+  "measured": null,
+  "model": "meta/muse-spark-1.3-contributor",
+  "skip_reason": "model_request_failed twice in R3 + R5 (provider rejected first turn)",
+  "skipped": true,
+  "trial": 1,
+  "verdict": null
+}
